@@ -73,4 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Research & Planning Log
 #### Friday, 12/02
-* 3:00 - 4:00 created components diagram and penpot initial design of the site
+* 3:00 - 4:00 - created components diagram and penpot initial design of the site
+* 4:00 - 5:00 - created proposal and added in penpot file for you to look over as well as an integrated draw.io file for the components
