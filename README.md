@@ -79,3 +79,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Research & Planning Log
 #### Friday, 12/09
 * 1:00 - 2:00 - Researched Firebase/Firestore to see if that would be a good way to host my API/Database rather than using C# backend.
+
+### Research & Planning Log
+#### Friday, 12/12
+* 9:00am - 10:00am - Researched NavBar and added all of the component files needed for project.
