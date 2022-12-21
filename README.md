@@ -85,3 +85,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 * 9:00am - 10:00am - Researched NavBar and added all of the component files needed for project.
 
 * 10am - 11:30am - updated app and index and researched about adding in sticky footers.
+
+### Research & Planning Log
+#### Friday, 12/21
+* 8:15am - 9:15am - Updated footer to have google embed code with some html/css prep.
