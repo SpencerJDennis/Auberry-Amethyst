@@ -6,18 +6,18 @@ function Header() {
     <React.Fragment>
       <div id="header">  
       <h1>Auberry Amethyst</h1>
-      <ul>
+      <ul className="headerlist">
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/" className="homelink">Home</Link>
         </li>
         <li>
-          <Link to="/FAQ">FAQ</Link>
+          <Link to="/FAQ" className="faqlink">FAQ</Link>
         </li>
         <li>
-          <Link to="/Gallery">Gallery</Link>
+          <Link to="/Gallery" className="gallerylink">Gallery</Link>
         </li>
         <li>
-          <Link to="/ContactUs">Contact Us</Link>
+          <Link to="/ContactUs" className="contactlink">Contact Us</Link>
         </li>
       </ul>
       </div>

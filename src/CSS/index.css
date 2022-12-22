@@ -1,16 +1,31 @@
 #footer {
   position: fixed;
-  color:blue;
+  background-color: blueviolet;
+  color:azure;
   left:0;
   bottom:0;
   right:0;
   display: flex;
-  flex-direction: column;
+  justify-content: space-evenly;
 
+}
+
+strong {
+  color: azure;
 }
 
 .mapStyle {
   display: flex;
+  flex-direction: column;
+}
+
+.map{
+  display: flex;
+}
+
+.map iframe{
+  margin-right: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 #contactform {
@@ -20,4 +35,87 @@
 
 #header {
   background-color: blueviolet;
+}
+
+.headerlist li {
+  display: inline;
+  list-style: none;
+  padding: 0.5rem;
+}
+
+.homelink {
+  color:azure;
+}
+
+.faqlink {
+  color:azure;
+}
+
+.contactlink {
+  color:azure;
+}
+
+.gallerylink {
+  color:azure;
+}
+
+#header h1 {
+  color:azure;
+  padding-left: 2.5rem;
+}
+
+#gallery {
+  margin: auto;
+  max-width: 75%;
+}
+
+.socialmedia {
+  display: flex;
+  flex-direction: column;
+}
+
+.faq {
+text-align: center;
+margin-top: 10rem;
+color: blueviolet;
+}
+
+#aboutUs {
+  text-align: center;
+  color:blueviolet;
+}
+
+.aboutText {
+  overflow-wrap: normal;
+}
+
+.galleryHeader {
+  text-align: center;
+  color: blueviolet;
+  padding-bottom: 5rem;
+}
+
+
+.photo{
+  max-width: 100%;
+  margin: auto;
+}
+
+#homeimage {
+/* border: 5px;
+border-color: blueviolet;
+border-style: solid; */
+/* background-color: blueviolet; */
+margin-top: 4rem;
+/* padding-top: 1rem;
+padding-bottom: 1rem; */
+}
+
+.contactHeader {
+  text-align: center;
+  color: blueviolet;
+}
+
+#contact {
+  margin-top: 5.5rem;
 }
