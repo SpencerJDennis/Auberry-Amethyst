@@ -91,3 +91,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 * 8:15am - 9:15am - Updated footer to have google embed code with some html/css prep.
 
 * 9:15am - 3:37pm - sorry for long commit, I was workin on multiple pages FAQ,ContactUs including jotform implementation and About us section.
+
+* 3:37pm - 6:00pm - This added all of the image assets and created the gallery component/data for the gallery page and added image to the about us section.

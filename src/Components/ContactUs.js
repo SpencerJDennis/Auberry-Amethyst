@@ -1,7 +1,8 @@
 import React from "react";
 import JotformEmbed from 'react-jotform-embed';
+import PropTypes from 'prop-types';
 
-const ContactUs = () => {
+const ContactUs = (props) => {
   return (
     <div id="contact">
       <h1 className="contactHeader">Contact Us</h1>
@@ -9,5 +10,9 @@ const ContactUs = () => {
     </div>
   );
 };
+
+ContactUs.propTypes = {
+  contact: PropTypes.object
+}
 
 export default ContactUs;

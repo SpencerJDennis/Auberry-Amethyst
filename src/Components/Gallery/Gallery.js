@@ -19,6 +19,6 @@ const Gallery = (props) => {
 
 Gallery.propTypes = {
   photos: PropTypes.arrayOf(PropTypes.object),
-  onGalleryImageClick: PropTypes.func,
+  onGalleryClick: PropTypes.func,
 }
 export default Gallery;

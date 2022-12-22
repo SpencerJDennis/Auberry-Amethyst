@@ -1,5 +1,5 @@
 import React from "react";
-import auberryamethyst from "../../photos/auberryamethyst.jpg";
+import auberryamethyst from "../photos/auberryamethyst.jpg";
 
 const AboutUs = () => {
   return (
