@@ -1,7 +1,7 @@
 import React from "react";
 import auberryamethyst from "../photos/auberryamethyst.jpg";
 
-const AboutUs = () => {
+const Home = () => {
   return (
     <div id='aboutUs'>
       <h1 className="aboutUsHeader">About Auberry Amethyst</h1>
@@ -13,4 +13,4 @@ const AboutUs = () => {
   );
 };
 
-export default AboutUs;
+export default Home;
