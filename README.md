@@ -100,4 +100,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 #### Friday, 12/21
 * 3:00am - 6:00am & 9:00am - 10:00am - Refactored project to remove state and update multiple components.
 
-* 10:00am - 12:00am - fixed contact us form/added css to footer.
+* 10:00am - 12:00pm - fixed contact us form/added css to footer.
+
+* 12:00pm - 3:40pm - added lots of css and refactored some of the code in components.
