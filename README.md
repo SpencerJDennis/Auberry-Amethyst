@@ -95,3 +95,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 * 3:37pm - 6:00pm - This added all of the image assets and created the gallery component/data for the gallery page and added image to the about us section.
 
 * 6:00pm - 8:30pm - Worked on site control and refactoring project to maybe not need state.
+
+### Research & Planning Log
+#### Friday, 12/21
+* 3:00am - 6:00am & 9:00am - 10:00am - Refactored project to remove state and update multiple components.
