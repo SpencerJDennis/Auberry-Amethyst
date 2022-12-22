@@ -32,10 +32,10 @@ const Gallery = () => {
       <h1 className="galleryHeader">Our Products</h1>
     <div id='gallery'>
       <div class='photo'>
-        <img src={amethyst} alt="A picture of an amethyst"/>
-        </div>
+        <img src={amethyst} alt="A picture of an amethyst" height={200} width={200}/>
       </div>
-      </div>
+    </div>
+    </div>
   )
 }
 

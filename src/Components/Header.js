@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 function Header() {
   return (
     <React.Fragment>
+      <div id="header">  
       <h1>Auberry Amethyst</h1>
       <ul>
         <li>
@@ -19,6 +20,7 @@ function Header() {
           <Link to="/ContactUs">Contact Us</Link>
         </li>
       </ul>
+      </div>
     </React.Fragment>
   );
 }

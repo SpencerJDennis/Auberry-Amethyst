@@ -11,10 +11,7 @@ const Footer = () => {
             loading="lazy"
             title="Auberry Amethyst"
           ></iframe>
-        </div>
-        <br />
-        <br />
-        <div className="mapText">
+          <div className="mapText">
           <a className="shopName" href="https://auberryamethyst.com/">
             <strong>Auberry Amethyst</strong>
           </a>
@@ -26,6 +23,10 @@ const Footer = () => {
             (559) 955-6118
           </p>
         </div>
+        </div>
+        <br />
+        <br />
+        
       </div>
     </div>
   );

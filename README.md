@@ -99,3 +99,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Research & Planning Log
 #### Friday, 12/21
 * 3:00am - 6:00am & 9:00am - 10:00am - Refactored project to remove state and update multiple components.
+
+* 10:00am - 12:00am - fixed contact us form/added css to footer.
